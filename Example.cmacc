@@ -1,0 +1,3 @@
+$ helloWorld = [yarn://cmacc-lib-helloworld/HelloWorld.cmacc]
+
+{{helloWorld}}
