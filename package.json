@@ -6,8 +6,5 @@
   "repository": "git@github.com:Cmacclang/cmacc-example-helloworld.git",
   "author": "Willem (W.F.) Veelenturf <willem.veelenturf@ing.nl>",
   "license": "MIT",
-  "flat": true,
-  "dependencies": {
-    "cmacc-lib-helloworld": "Cmacclang/cmacc-lib-helloworld"
-  }
+  "flat": true
 }
