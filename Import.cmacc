@@ -1,3 +1,8 @@
+---
+Title:  Import
+Author: Willem Veelenturf
+---
+
 $ helloWorld = [./Example.cmacc]
 
 # Import example

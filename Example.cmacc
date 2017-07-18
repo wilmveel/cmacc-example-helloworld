@@ -1,3 +1,8 @@
+---
+Title:  Example
+Author: Willem Veelenturf
+---
+
 $ hello = "Hello"
 
 # World {{hello}}
