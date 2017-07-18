@@ -1,0 +1,5 @@
+$ helloWorld = [./Example.cmacc]
+
+# Import example
+
+{{helloWorld}}
