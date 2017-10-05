@@ -8,5 +8,3 @@ $ helloWorld = [./Example.cmacc]
 # Import example
 
 {{helloWorld}}
-
-123
