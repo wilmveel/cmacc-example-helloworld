@@ -3,6 +3,6 @@ Title:  Example
 Author: Willem Veelenturf
 ---
 
-$ hello = "Hello"
+$ hello = 'Hello 123'
 
 # World {{hello}}
